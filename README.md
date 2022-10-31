@@ -1,7 +1,7 @@
 Hi, 
 
 - 🔭 I’m currently working on .NET. This is my main tecnology.
-- 🌱 I’m currently learning c++, typescript, .net, software engineering and architecture. 
+- 🌱 I’m currently learning c++, powershell, typescript, .net, software engineering and architecture. 
 - 👯 I’m looking to collaborate on any projects, send me a message. :)
 - ⚡ Fun fact: I'm afraid of css.
 
